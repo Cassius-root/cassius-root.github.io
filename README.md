@@ -1,4 +1,5 @@
 <h6>YOU WILL BE DESTROYED</h6>
+<script>
 alert('HI')
 alert('HI')
 alert('HI')
@@ -610,6 +611,7 @@ alert('HI')
 alert('HI')
 alert('HI')
 alert('HI')
+  </script>
 
 
 
