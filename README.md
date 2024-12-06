@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 <h6>YOU WILL BE DESTROYED</h6>
 <script>
 alert('HI')
@@ -611,7 +614,9 @@ alert('HI')
 alert('HI')
 alert('HI')
 alert('HI')
-  </script>
+</script>
+</body>
+</html>
 
 
 
