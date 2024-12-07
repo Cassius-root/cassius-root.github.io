@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <h6>YOU WILL BE DESTROYED</h6>
@@ -105,6 +105,7 @@ if (person == null || person == "") {
   alert("Hello " + person + "! How are you today?");
   alert("Hello " + person + "! How are you today?");
 }
+<img src="img_chania.jpg" alt="Flowers in Chania">
 </script>
 </body>
 
