@@ -3,7 +3,10 @@
 body {
 background-color: lightblue}
 </style>
-<script>window.open("https://www.w3schools.com");
+<script>
+while (0=0) {
+  window.open("cattius-root.github.io");
+}  
 </script>
 
 
