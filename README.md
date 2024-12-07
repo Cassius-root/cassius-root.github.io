@@ -2,8 +2,8 @@
 <html>
 <body>
 <video width="3200" height="2400" controls>
-<source src="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLMlU2ieHlJI1W1PiOWl6bSoVnKaIDZDlCbw" type="video/mp4">
-<source src="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTLMlU2ieHlJI1W1PiOWl6bSoVnKaIDZDlCbw" type="video/ogg">
+<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 <script>
