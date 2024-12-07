@@ -105,8 +105,12 @@ if (person == null || person == "") {
   alert("Hello " + person + "! How are you today?");
   alert("Hello " + person + "! How are you today?");
 }
-<img src="https://www.youtube.com/watch?v=o-YBDTqX_ZU" alt="Flowers in Chania">
 </script>
+ <video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" type="video/mp4">
+  <source src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 </body>
 
 
