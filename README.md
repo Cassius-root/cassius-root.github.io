@@ -6,7 +6,7 @@ background-color: lightblue}
 </style>
 <script>
 window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
-window.open("saladcheese.my.canva.site/3d)
+window.open("saladcheese.my.canva.site/3d")
 var a = true
 while (a == true)
   alert("HI")
