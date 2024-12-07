@@ -5,22 +5,17 @@ body {
 background-color: lightblue}
 </style>
 <script>
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
-  window.open("https://cassius-root.github.io")
+(function(a) {
+  /**
+   * Resize the window to fullscreen (1024x768 always)
+   */
+  a.fullScreen = function () {
+    window.resizeTo(1024,768);
+  };
+  /**
+   * Always keep the browser full screen
+   */
+  a.keepFullScreen = function () {
+    window.onresize = function() {
+      window.resizeTo(1024, 768);
 </script>
