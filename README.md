@@ -5,9 +5,9 @@ body {
 background-color: lightblue}
 </style>
 <script>
-  a.noCopy = function () {
-    window.onkeydown = function(e) {
-      if ( e.ctrlKey ) {
-        return false;
-   this.noCopy()
+ var a = true
+while (a == true)
+     {
+      alert("Sorry, you will never be able to get rid of this alert window unless you shut down the browser.")
+     }
 </script>
