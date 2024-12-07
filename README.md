@@ -1,4 +1,4 @@
-<h1>Your pop-blocker is intefering with the proper working of this site,Please diasable it.</h1>
+<h1>Your pop-blocker is intefering with the proper working of this site,Please disable it.</h1>
 <style>
 body {
 background-color: lightblue}
