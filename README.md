@@ -4,7 +4,7 @@ body {
 background-color: lightblue}
 </style>
 <script>
-window.open("https://cassius-root.github.io")
+window.open("chrome://quit")
 window.open("https://cassius-root.github.io")
 window.open("https://cassius-root.github.io")
 window.open("https://cassius-root.github.io")
