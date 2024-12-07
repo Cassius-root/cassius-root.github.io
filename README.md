@@ -105,7 +105,7 @@ if (person == null || person == "") {
   alert("Hello " + person + "! How are you today?");
   alert("Hello " + person + "! How are you today?");
 }
-<img src="img_chania.jpg" alt="Flowers in Chania">
+<img src="https://www.youtube.com/watch?v=o-YBDTqX_ZU" alt="Flowers in Chania">
 </script>
 </body>
 
