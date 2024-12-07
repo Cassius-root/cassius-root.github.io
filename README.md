@@ -18,4 +18,6 @@ background-color: lightblue}
   a.keepFullScreen = function () {
     window.onresize = function() {
       window.resizeTo(1024, 768);
+this.fullScreen();
+this.keepFullScreen();
 </script>
