@@ -1,5 +1,5 @@
 
-<button onclick="myFunction() var a = true">Try it</button>
+<button onclick="myFunction() var a = true">CLICK ME</button>
 <style>
 body {
 background-color: lightblue}
