@@ -5,7 +5,7 @@ background-color:DarkOrange}
 </style>
 
 <script>
-setInterval(myTimer, 1000);
+setInterval(myTimer(), 1000);
 
 function myTimer() {
 	var newWindow;
