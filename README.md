@@ -1,6 +1,10 @@
 :)
 <style>body {
   background-color: Black;
+  h1 {
+  color: green;
+  text-align: center;
+}
 }</style>
 <script>
 	var newWindow;
