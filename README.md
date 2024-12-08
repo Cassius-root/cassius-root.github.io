@@ -14,8 +14,9 @@
         var RandomY = (Math.random() * 768) + 1;
 	var specs = "height=100px, width=100px, left=" + RandomX + ", top=" + RandomY;
 	newWindow = window.open("https://art.pixilart.com/20f3dff37cf20cb.gif","test", specs);
-	}, 1000);
-	
-	
+	}, 500);
+ 	setInterval(function(){
+	newWindow.close();
+	}, 10000);	
 	
 </script>
