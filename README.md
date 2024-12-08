@@ -1,7 +1,7 @@
-:)
+<h6>:)</h6>
 <style>body {
   background-color: Black;
-  h1 {
+  h6 {
   color: green;
   text-align: center;
 }
