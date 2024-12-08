@@ -8,6 +8,14 @@ background-color:DarkOrange}
 setInterval(myTimer, 1000);
 
 function myTimer() {
-	window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank", "toolbar=no,scrollbars=no,resizable=no,top=500,left=500,width=4000000000000000,height=40000000000000");
+	var newWindow;
+
+	{
+	var random = (Math.random() * 1300);
+	var rando = (Math.random() * 1300);
+	var specs = "height=100px, width=100px, left=" + random ", top=" + rando;
+	newWindow = window.open("URL","test", specs);
+	newWindow.close();
+	}
 }
 </script>
