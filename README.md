@@ -6,7 +6,7 @@ background-color: black}
 </style>
 <script>
 function myFunction() {
-  window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400");
+  window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank", "toolbar=no,scrollbars=no,resizable=no,top=500,left=500,width=4000000000000000,height=40000000000000");
   var a = true
 }
 
