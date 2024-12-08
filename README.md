@@ -17,9 +17,6 @@
 	newWindow = window.open("cassius-root.github.io","test", specs);
  	cat = window.open("https://art.pixilart.com/20f3dff37cf20cb.gif","test", specs)
 	}, 5);
- 	setInterval(function(){
-	newWindow.close()
- 	cat.close();
-	}, 100);
+ 	
  	
 </script>
