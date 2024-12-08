@@ -11,7 +11,7 @@ var a = 0
 function bob() {
   while ( a < 2 )
     myFunction()
-    a + 1}
+    }
   
 function myFunction() {
   var a = true
