@@ -16,8 +16,6 @@
 	newWindow = window.open("https://art.pixilart.com/20f3dff37cf20cb.gif","test", specs);
 	}, 1000);
 	
-	setInterval(function(){
-	newWindow.close();
-	}, 2000);
+	
 	
 </script>
