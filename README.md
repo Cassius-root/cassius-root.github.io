@@ -1,5 +1,5 @@
 
-<h1>Your pop-blocker is intefering with the proper working of this site,Please disable it.</h1>
+<button onclick="myFunction() var a = true">Try it</button>
 <style>
 body {
 background-color: lightblue}
@@ -8,7 +8,7 @@ background-color: lightblue}
 function myFunction() {
   window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank", "toolbar=yes,scrollbars=yes,resizable=yes,top=500,left=500,width=400,height=400");
 }
-var a = true
+
 while (a == true)
   myfunction()
   
