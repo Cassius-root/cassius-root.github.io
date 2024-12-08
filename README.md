@@ -1,4 +1,4 @@
-
+// this is just my personal annoyance website that opens a unclose-able rickroll window
 <button onclick="myFunction() ">CLICK ME</button>
 <style>
 body {
