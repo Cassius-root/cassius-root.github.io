@@ -1,3 +1,7 @@
+:)
+<style>body {
+  background-color: Black;
+}</style>
 <script>
 	var newWindow;
 	
