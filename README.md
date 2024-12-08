@@ -13,7 +13,7 @@ function myTimer() {
 	{
 	var random = (Math.random() * 1300);
 	var rando = (Math.random() * 1300);
-	var specs = "height=100px, width=100px, left=" + random ", top=" + rando;
+	var specs = "height=100px, width=100px, left=" + random +", top=" + rando;
 	newWindow = window.open("URL","test", specs);
 	newWindow.close();
 	}
