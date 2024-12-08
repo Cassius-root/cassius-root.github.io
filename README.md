@@ -1,30 +1,15 @@
-
-<button onclick="bob() ">CLICK ME</button>
-<style>
-body {
-background-color: black}
-
-</style>
 <script>
-
-var a = 0
-function bob() {
-  while ( a < 2 )
-    myFunction()
-    }
-  
-function myFunction() {
-  var a = true
-  window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank", "toolbar=no,scrollbars=no,resizable=no,top=500,left=500,width=4000000000000000,height=40000000000000");}
-  
-
-
-<script>
-setInterval(myTimer, 1000);
-
-  
-  
-function myTimer() {
-	window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank", "toolbar=no,scrollbars=no,resizable=no,top=500,left=500,width=4000000000000000,height=40000000000000");
-}
+	var newWindow;
+	
+	setInterval(function(){
+        var RandomX = (Math.random() * 1024) + 1;
+        var RandomY = (Math.random() * 768) + 1;
+	var specs = "height=100px, width=100px, left=" + RandomX + ", top=" + RandomY;
+	newWindow = window.open("https://art.pixilart.com/20f3dff37cf20cb.gif","test", specs);
+	}, 1000);
+	
+	setInterval(function(){
+	newWindow.close();
+	}, 2000);
+	
 </script>
