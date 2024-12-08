@@ -2,7 +2,7 @@
 <button onclick="myFunction() var a = true">CLICK ME</button>
 <style>
 body {
-background-color: lightblue}
+background-color: black}
 </style>
 <script>
 function myFunction() {
