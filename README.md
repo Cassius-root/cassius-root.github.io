@@ -5,6 +5,7 @@ body {
 background-color: black}
 </style>
 <script>
+
 var a = true
 function bob() {
   while ( 0 == 0 )
