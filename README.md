@@ -6,10 +6,11 @@ background-color: black}
 </style>
 <script>
 
-var a = true
+var a = 0
 function bob() {
-  while ( 0 == 0 )
-    myFunction() }
+  while ( a < 2 )
+    myFunction()
+    a + 1}
   
 function myFunction() {
   var a = true
