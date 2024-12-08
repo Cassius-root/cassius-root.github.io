@@ -1,5 +1,5 @@
 
-<button onclick="myFunction() ">CLICK ME</button>
+<button onclick="bob() ">CLICK ME</button>
 <style>
 body {
 background-color: black}
