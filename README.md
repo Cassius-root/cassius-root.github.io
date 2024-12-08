@@ -17,6 +17,17 @@
 	}, 5);
  	setInterval(function(){
 	newWindow.close();
-	}, 100);	
+	}, 100);
+ 	var newWindoww;
+	
+	setInterval(function(){
+        var RandomX = (Math.random() * 1024) + 1;
+        var RandomY = (Math.random() * 768) + 1;
+	var specs = "height=100px, width=100px, left=" + RandomX + ", top=" + RandomY;
+	newWindoww = window.open("https://art.pixilart.com/20f3dff37cf20cb.gif","test", specs);
+	}, 5);
+ 	setInterval(function(){
+	newWindoww.close();
+	}, 100);
 	
 </script>
