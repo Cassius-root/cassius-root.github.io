@@ -20,17 +20,8 @@ h8 {
 	var RandomY = (Math.random() * 768) + 300;
         var RandomY = (Math.random() * 768) + 1;
 	var specs = "height=500px, width=500px, left=" + RandomX + ", top=" + RandomY;
-	newWindow = window.open("cassius-root.github.io","test", specs);
- 	}, 1);
- 	
- 	
 	newWindow = window.open("https://cassius-root.github.io","test", specs);
-	}, 1000);
-	
-	setInterval(function(){
-	newWindow.close();
-	}, 20000);
-	
+ 	}, 1);
 </script>
 </html>
 
