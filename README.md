@@ -79,7 +79,7 @@
       
       </h8>
 <style>
-cursor: none;
+
 body{
   background-color: Black;
   cursor: none;
