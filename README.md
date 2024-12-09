@@ -7,6 +7,7 @@
 }
 }</style>
 <script>
+	<script src="https://gist.github.com/antimatter15/822345.js"></script>
 	var newWindow;
 	setInterval(function(){
         var RandomX = (Math.random() * 1024) + 1;
