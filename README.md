@@ -1,8 +1,8 @@
-<html>
+
 <h8>I STOLE YOUR POINTER!</h6>
 <style>
 body{
-  background-color: #1D1E22;
+  background-color: Black;
   cursor: none;
   
 h8 {
@@ -25,6 +25,6 @@ h8 {
 	}, 20000);
 	
 </script>
-</html>
+
 
 
