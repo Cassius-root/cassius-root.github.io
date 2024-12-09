@@ -16,17 +16,8 @@ h8 {
 }
 </style>
 <script>
-	var A = 0
-	
-
-	newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", height=500px, width=500px left=" + A)
-	
 	var newWindow;
-	var cat;
-	var A = 0
-	
-	
-        setInterval(function(){
+	setInterval(function(){
 	 	var RandomX = (Math.random() * 1024) + 1;
 	 	var RandomY = (Math.random() * 768) + 300;
 		var specs = "height=500px, width=500px, left=" + RandomX + ", top=" + RandomY;
