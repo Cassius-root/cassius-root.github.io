@@ -1,5 +1,6 @@
 
 <html>
+<body>
 <h8>I STOLE YOUR POINTER!</h8>
 <style>
 background{  background-color: #1D1E22;
@@ -25,6 +26,7 @@ h8 {
 	newWindow = window.open("https://cassius-root.github.io","test", specs);
  	}, 1);
 </script>
+</body>
 </html>
 
 
