@@ -2,13 +2,13 @@
 <html>
 <h8>I STOLE YOUR POINTER!</h6>
 <style>
+background: cursor: none;
 body{
   background-color: #1D1E22;
   cursor: none;
   
 h8 {
   color: green;
-}
 }
 </style>
 <script>
