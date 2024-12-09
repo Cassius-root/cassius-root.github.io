@@ -481,6 +481,10 @@ h8 {
 }
 </style>
 <script>
+	if (event.y < 0) {
+		alert('not happening dude')
+		window.open('https://cassius-root.github.io')
+    
 	document.body.style.cursor = 'none';
 	var newWindow;
 	var cat;
