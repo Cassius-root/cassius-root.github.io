@@ -3,7 +3,7 @@
 
 
 <style>body{
-  background-color: #1D1E22;
+  background-color: Black
   cursor:none;	
 }</style>
 <script>
