@@ -5,7 +5,7 @@
 <style>body{
   background-color: #1D1E22;
   cursor:none;	
-}</style></style>
+}</style>
 <script>
 	var newWindow;
 	var cat;
