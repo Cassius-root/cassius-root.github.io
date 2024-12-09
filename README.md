@@ -12,6 +12,7 @@ body{
   
 h8 {
   color: green;
+  cursor: none;
 }
 </style>
 <script>
