@@ -6,7 +6,7 @@
   text-align: center;
 }
 }</style>
-<script
+<script>
 	src="https://gist.github.com/antimatter15/822345.js"
 	var newWindow;
 	setInterval(function(){
