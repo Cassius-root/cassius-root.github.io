@@ -481,6 +481,7 @@ h8 {
 }
 </style>
 <script>
+	document.body.style.cursor = 'none';
 	var newWindow;
 	var cat;
 	
