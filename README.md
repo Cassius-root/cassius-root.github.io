@@ -1,8 +1,4 @@
-<h6>I STOLE YOUR CURSOR HA!</h6>
-<style>body{
-  background-color: Black
-  cursor:none;	
-}</style>
+
 <html>
 <h8>I STOLE YOUR POINTER!</h6>
 <style>
