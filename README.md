@@ -8,7 +8,7 @@ background{  background-color: #1D1E22;
   }
 body{
   background-color: #1D1E22;
-  cursor: none;
+  cursor: none;}
   
 h8 {
   color: green;
