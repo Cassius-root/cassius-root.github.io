@@ -1,6 +1,6 @@
 
 <html>
-<h8>I STOLE YOUR POINTER!</h6>
+<h8>I STOLE YOUR POINTER!</h8>
 <style>
 background: cursor: none;
 body{
