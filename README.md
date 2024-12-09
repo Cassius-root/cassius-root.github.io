@@ -33,7 +33,7 @@ h8 {
 	 	var RandomZ = (Math.random() * 1024) + 1;
 	 	var RandomT = (Math.random() * 768) + 300;
 		var specs = "height=500px, width=500px, left=" + RandomZ + ", top=" + RandomT;
-		newWindow = window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ","test", specs);
+		cat = window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ","test", specs);
  	 }, 1);
 </script>
 </body>
