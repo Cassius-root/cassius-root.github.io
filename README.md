@@ -1,12 +1,11 @@
 
 <h6>:)</h6>
-<style>body {
-  background-color: Black;
-  h6 {
-  color: green;
-  text-align: center;
-}
-}</style>
+<style>
+
+<style>body{
+  background-color: #1D1E22;
+  cursor:none;	
+}</style></style>
 <script>
 	var newWindow;
 	var cat;
