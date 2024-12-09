@@ -2,10 +2,12 @@
 <html>
 <body>
 <h8>I STOLE YOUR POINTER </h8>
+<audio src="https://github.com/Cassius-root/cassius-root.github.io/blob/6cae404fbb642d9cf415fc6afa1e26636e42ad38/Mzg1ODMxNTIzMzg1ODM3_JzthsfvUY24.MP3" autoplay></audio>
 <style>
 background{  background-color: #1D1E22;
   cursor: none;
   }
+
 body{
   background-color: #1D1E22;
   cursor: none;}
