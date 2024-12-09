@@ -2,7 +2,9 @@
 <html>
 <h8>I STOLE YOUR POINTER!</h8>
 <style>
-
+background{  background-color: #1D1E22;
+  cursor: none;
+  }
 body{
   background-color: #1D1E22;
   cursor: none;
