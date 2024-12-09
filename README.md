@@ -1,3 +1,4 @@
+
 <h6>:)</h6>
 <style>body {
   background-color: Black;
@@ -16,8 +17,9 @@
 	var Randomv = (Math.random() * 768) + 300;
 	var specs = "height=500px, width=500px, left=" + RandomX + ", top=" + RandomY;
 	var specx = "height=500px, width=500px, left=" + RandomT + ", top=" + Randomv;
-	newWindow = window.open("youtu.be/dQw4w9WgXcQ?feature=shared","test", specs);
-	cat = window.open("https://art.pixilart.com/20f3dff37cf20cb.gif","test", specx);
+	window.open("youtu.be/dQw4w9WgXcQ?feature=shared","test", specs);
+	
+	window.open("https://art.pixilart.com/20f3dff37cf20cb.gif","test", specx);
  	}, 1);
  	
  	
