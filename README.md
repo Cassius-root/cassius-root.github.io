@@ -1,6 +1,6 @@
 
 <h6>I STOLE YOUR CURSOR HA!</h6>
-<style>
+
 
 <style>body{
   background-color: #1D1E22;
