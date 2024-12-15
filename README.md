@@ -2,7 +2,11 @@
 <html>
 <body>
 <h8>I STOLE YOUR POINTER </h8>
-<title>google.com</title>
+<div class="container">
+  <div class="center">
+    <button onclick='A = 0'>Click Me</button>
+  </div>
+</div>
 <style>
 *{cursor: none;}
 background{  background-color: #1D1E22;
@@ -22,11 +26,7 @@ background{  background-color: #1D1E22;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
-<div class="container">
-  <div class="center">
-    <button onclick='A = 0'>Click Me</button>
-  </div>
-</div>
+
 
 body{
   background-color: #1D1E22;
