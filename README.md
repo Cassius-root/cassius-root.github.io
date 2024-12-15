@@ -24,7 +24,7 @@ background{  background-color: #1D1E22;
 }
 <div class="container">
   <div class="center">
-    <button>Click Me</button>
+    <button onclick='A = 0'>Click Me</button>
   </div>
 </div>
 
@@ -38,8 +38,9 @@ h8 {
 }
 </style>
 <script>
+	A = 2
 	var newWindow;
-	while (0 < 1)
+	while (A < 1)
 		setInterval(function(){
 	 		var RandomX = (Math.random() * 1024) + 1;
 	 		var RandomY = (Math.random() * 768) + 300;
